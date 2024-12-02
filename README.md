@@ -7,6 +7,6 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces dinâmicas e resp
 - Ferramentas: Git, Figma, VS Code
 
   🌟 Projetos em Destaque:
-- [Portfólio Pessoal](https://github.com/albertombundi/portfolio)
+- [Portfólio Pessoal](https://portfolio-one-steel-30.vercel.app/)
 
   📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/alberto-soneha-mbundi-050a16200/)
