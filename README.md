@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou [Alberto Mbundi]!
+### 👋 Olá, eu sou [ Alberto Mbundi ]!
 Sou um desenvolvedor front-end apaixonado por criar interfaces dinâmicas e responsivas.
 
 🚀 Tecnologias que uso:
