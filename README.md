@@ -3,7 +3,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces dinâmicas e resp
 
 🚀 Tecnologias que uso:
 - HTML5 | CSS3 | JavaScript (ES6+)
-- React | Vue.js | Tailwind CSS
+- React | Next.js | Tailwind CSS
 - Ferramentas: Git, Figma, VS Code
 
   🌟 Projetos em Destaque:
