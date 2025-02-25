@@ -39,6 +39,15 @@ Me chamo Alberto Soneha Mbundi, tenho 24 anos sou de Luanda, Angola. Atualmente 
 
 ### 🤖 Linguagens e Tecnologias
 
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -54,14 +63,6 @@ Me chamo Alberto Soneha Mbundi, tenho 24 anos sou de Luanda, Angola. Atualmente 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
