@@ -22,7 +22,7 @@ Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente
     <a href="https://github.com/albertosoneha?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            title="Total de estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/albertosoneha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
