@@ -1,18 +1,18 @@
 # 👨🏽‍💻 albertosoneha 
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Front-End`**
 
-Me chamo Alberto Soneha Mbundi, tenho 24 anos sou de Luanda, Angola. Atualmente estou a fazer o curso de licenciatura da Engenharia Informática na universidade, sou um grande entusiasta de tecnologia e compartilho o meu conhecimento através dos meus projetos aqui no github e noutras plataformas digitais.
+Me chamo Alberto Soneha Mbundi, sou de Luanda, Angola. Atualmente estou a fazer o curso de licenciatura da Engenharia Informática na universidade, sou um grande entusiasta de tecnologia e compartilho o meu conhecimento através dos meus projetos aqui no github e noutras plataformas digitais.
 
 <p align="left">
-    <a href="https://www.youtube.com/@albertosoneha?sub_confirmation=1">
+    <a href="https://www.youtube.com/@Robé_Dev?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@albertosoneha">
+    <a href="https://www.youtube.com/@Robé_Dev">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
