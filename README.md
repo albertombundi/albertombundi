@@ -16,7 +16,7 @@ Me chamo Alberto Soneha Mbundi, sou de Luanda, Angola. Atualmente estou a fazer 
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCCH8n4XEYPTgmDaPHCsxTNQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
     <a href="https://github.com/albertosoneha?tab=repositories&sort=stargazers">
