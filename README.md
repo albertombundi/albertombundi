@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá Mundo! Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente estou a fazer o curso de Licenciatura da Engenharia Informática, sou um grande entusiasta de tecnologia e compartilho o meu conhecimento através dos meus projetos aqui no github e noutras plataformas digitais.
+Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente estou a fazer o curso de Licenciatura da Engenharia Informática, sou um grande entusiasta de tecnologia e compartilho o meu conhecimento através dos meus projetos aqui no github e noutras plataformas digitais.
 
 <p align="left">
     <a href="https://www.youtube.com/@Robé_Dev?sub_confirmation=1">
