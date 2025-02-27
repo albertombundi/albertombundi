@@ -14,7 +14,7 @@ Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente
     </a>
     <a href="https://www.youtube.com/@Robé_Dev">
         <img 
-            alt="youtube views" 
+            alt="vizualizações no YouTube" 
             title="Vizualizações no YouTube" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCCH8n4XEYPTgmDaPHCsxTNQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
