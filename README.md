@@ -4,15 +4,6 @@
 
 Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente estou a fazer o curso de Licenciatura da Engenharia Informática, sou um grande entusiasta de tecnologia e compartilho o meu conhecimento através dos meus projetos aqui no github e noutras plataformas digitais.
 
-# Meu Perfil
-
-Total de Estrelas: 0
-Total de Forks: 0
-Total de Observadores: 0
-Total de Issues: 0
-Total de Pull Requests: 0
-Total de Seguidores: 0
-
 <p align="left">
     <a href="https://www.youtube.com/@Robé_Dev?sub_confirmation=1">
         <img 
