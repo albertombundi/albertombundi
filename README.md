@@ -5,21 +5,21 @@
 Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente estou a fazer o curso de Licenciatura da Engenharia Informática, sou um grande entusiasta de tecnologia e compartilho o meu conhecimento através dos meus projetos aqui no github e noutras plataformas digitais.
 
 <p align="left">
-    <a href="https://www.youtube.com/@Robé_Dev?sub_confirmation=1">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCCH8n4XEYPTgmDaPHCsxTNQ?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@Robé_Dev">
+    <a href="https://www.youtube.com/@larissakich">
         <img 
-            alt="vizualizações no YouTube" 
+            alt="youtube views" 
             title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCCH8n4XEYPTgmDaPHCsxTNQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-        <a href="https://github.com/albertosoneha?tab=repositories&sort=stargazers">
+    <a href="https://github.com/albertosoneha?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -39,15 +39,6 @@ Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente
 
 ### 🤖 Linguagens e Tecnologias
 
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
 <img 
     align="left" 
     alt="HTML"
@@ -63,6 +54,14 @@ Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
@@ -90,6 +89,14 @@ Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente
 />
 <img 
     align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
@@ -98,11 +105,35 @@ Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente
 />
 <img 
     align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Laravel" 
+    title="Laravel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JQuery" 
+    title="JQuery"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -120,14 +151,7 @@ Olá, Chamo-me Alberto Soneha Mbundi, Direitamente de Luanda, Angola. Atualmente
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
+
 <br/>
 <br/>
 
