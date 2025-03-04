@@ -42,7 +42,7 @@ Hi, my name is Alberto Soneha Mbundi, directly from Luanda, Angola. I'm currentl
 ---
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -135,7 +135,7 @@ Hi, my name is Alberto Soneha Mbundi, directly from Luanda, Angola. I'm currentl
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
@@ -143,7 +143,7 @@ Hi, my name is Alberto Soneha Mbundi, directly from Luanda, Angola. I'm currentl
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=albertosoneha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=albertosoneha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en-us" 
   />
 
 <img 
