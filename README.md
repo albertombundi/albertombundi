@@ -3,6 +3,7 @@
 **`FrontEnd Developer`**
 
 Olá, eu sou [ Alberto Soneha Mbundi ]
+
 Sou um desenvolvedor apaixonado e dedicado, capaz de transformar desafios complexos em soluções simples, eficientes e escaláveis. 
 Ao longo dos meus estudos e descobertas, trabalhei com diversas tecnologias e frameworks, e sempre busquei entregar resultados de alto impacto para empresas e clientes. 
 Com um forte compromisso com boas práticas de codificação, performance e segurança.
