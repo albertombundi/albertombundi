@@ -2,7 +2,7 @@
 
 **`FrontEnd Developer`**
 
-Hi, my name is Alberto Soneha Mbundi, directly from Luanda, Angola. I'm currently doing a degree in Computer Engineering, I'm a great technology enthusiast and I share my knowledge through my projects here on github and other digital platforms.
+My name is Alberto Soneha Mbundi, directly from Luanda, Angola. I'm currently doing a degree in Computer Engineering, I'm a great technology enthusiast and I share my knowledge through my projects here on github and other digital platforms.
 
 <p align="left">
     <a href="https://www.youtube.com/@Robe_Dev?sub_confirmation=1">
