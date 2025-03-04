@@ -3,7 +3,7 @@
 **`FrontEnd Developer`**
 
 Olá, eu sou [Alberto Soneha Mbundi] 👨‍💻
-Sou um desenvolvedor apaixonado e dedicado, com experiência sólida em tecnologias/languages listadas abaixo, capaz de transformar desafios complexos em soluções simples, eficientes e escaláveis. Ao longo da minha carreira, trabalhei com diversas tecnologias e frameworks, e sempre busquei entregar resultados de alto impacto para empresas e clientes. Com um forte compromisso com boas práticas de codificação, performance e segurança. Meu foco é criar soluções que não apenas atendam às necessidades do cliente, mas que também agreguem valor real e tragam inovação. Sou movido por resultados e pela busca constante pela excelência. Acredito que a comunicação clara e a colaboração eficaz são essenciais para o sucesso de qualquer projeto, seja no trabalho em equipe ou em entregas individuais.
+Sou um desenvolvedor apaixonado e dedicado, capaz de transformar desafios complexos em soluções simples, eficientes e escaláveis. Ao longo da minha carreira, trabalhei com diversas tecnologias e frameworks, e sempre busquei entregar resultados de alto impacto para empresas e clientes. Com um forte compromisso com boas práticas de codificação, performance e segurança. Meu foco é criar soluções que não apenas atendam às necessidades do cliente, mas que também agreguem valor real e tragam inovação. Sou movido por resultados e pela busca constante pela excelência. Acredito que a comunicação clara e a colaboração eficaz são essenciais para o sucesso de qualquer projeto, seja no trabalho em equipe ou em entregas individuais.
 
 <p align="left">
     <a href="https://www.youtube.com/@Robe_Dev?sub_confirmation=1">
