@@ -30,7 +30,7 @@ Acredito que a comunicação clara e a colaboração eficaz são essenciais para
     <a href="https://github.com/albertosoneha?tab=repositories&sort=stargazers">
         <img 
             alt="Total stars" 
-            title="Total gitHub stars" 
+            title="Total github stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/albertosoneha?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
