@@ -2,15 +2,15 @@
 
 **`FrontEnd Developer`**
 
-Olá, eu sou [ Alberto Soneha Mbundi ]
+Hi, my name is Alberto Soneha Mbundi.
 
-Sou um desenvolvedor apaixonado e dedicado, capaz de transformar desafios complexos em soluções simples, eficientes e escaláveis. 
-Ao longo dos meus estudos e descobertas, trabalhei com diversas tecnologias e frameworks, e sempre busquei entregar resultados de alto impacto para empresas e clientes. 
-Com um forte compromisso com boas práticas de codificação, performance e segurança.
+I'm a passionate and dedicated programmer, which allows me to transform complex challenges into simple, efficient and scalable solutions. 
+Throughout my studies and experience, I have worked with various technologies and frameworks, always seeking to achieve high-impact results for companies and clients. 
+I follow good coding, performance and security practices.
 
-Meu foco é criar soluções que não apenas atendam às necessidades do cliente, mas que também agreguem valor real e tragam inovação. 
-Sou movido por resultados e pela busca constante pela excelência. 
-Acredito que a comunicação clara e a colaboração eficaz são essenciais para o sucesso de qualquer projeto, seja no trabalho em equipe ou em entregas individuais.
+My focus is on creating solutions that not only meet the client's needs, but also add value and are innovative. 
+I am motivated by results and the continuous pursuit of excellence. 
+I believe that clear communication and effective collaboration are essential to the success of any project, both as a team and individually.
 
 <p align="left">
     <a href="https://www.youtube.com/@Robe_Dev?sub_confirmation=1">
