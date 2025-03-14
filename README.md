@@ -1,6 +1,6 @@
 # 👨🏽‍💻 albertosoneha 
 
-**`FrontEnd Developer`**
+**`Full-Stack Developer`**
 
 Hi, my name is Alberto Soneha Mbundi.
 
