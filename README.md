@@ -8,7 +8,7 @@ Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma
 
 🚀 Sobre Mim
 ---
-💼 Atualmente trabalhando como [Desenvovedor Full-Stack] na [RobéBus!ness].
+💼 Atualmente trabalhando como [Desenvovedor Full-Stack] na [ RobéBus!ness ].
 🎓 Cursando  [Engenharia Informática].
 🌱 Sempre aprendendo algo novo, atualmente focado em [Desenvolvimento full-Stack].
 
