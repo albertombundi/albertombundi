@@ -4,9 +4,8 @@
 
 Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma coleção dos meus projetos e contribuições no GitHub.
 
----
 🎓 Cursando  [Engenharia Informática].
-🌱 Sempre aprendendo algo novo, atualmente focado em [Desenvolvimento full-Stack].
+🌱 Sempre aprendendo algo novo, atualmente focado em [ Desenvolvimento full-Stack ].
 ---
 
  <a href="https://instagram.com/carolinademy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
