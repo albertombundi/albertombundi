@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`**
 
-Sou um desenvolvedor dedicado em aprender e inovar. 
+Sou um desenvolvedor dedicado em aprender e inovar. <br>
 Gosto de explorar novas tecnologias e encontrar soluções criativas para problemas simples e complexos.
 
 <a href="https://www.linkedin.com/in/albertombundi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -117,19 +117,22 @@ Gosto de explorar novas tecnologias e encontrar soluções criativas para proble
 ### 📊 Statistics
 
 <p>
-  <img 
+ 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=albertosoneha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt" 
-  />
-
+    src="https://github-readme-stats.vercel.app/api? 
+    username=albertosoneha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-pt"
+/>
+   
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertosoneha&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
+      src="https://github-readme-stats.vercel.app/api/top-langs/?  
+      username=albertosoneha&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+ />
+  
 </p>
