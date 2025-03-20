@@ -2,8 +2,6 @@
 
 **`Full-Stack Developer`**
 
-Olá, eu sou Alberto Soneha! 👋
----
 Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma coleção dos meus projetos e contribuições no GitHub.
 
 ---
