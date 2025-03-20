@@ -124,7 +124,7 @@ Gosto de explorar novas tecnologias e encontrar soluções criativas para proble
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api? 
-    username=albertosoneha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    username=albertosoneha&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
 />
    
 <img 
