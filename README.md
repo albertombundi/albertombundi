@@ -2,16 +2,17 @@
 
 **`Full-Stack Developer`**
 
-Hi, my name is Alberto Soneha Mbundi.
+Olá, eu sou Alberto Soneha! 👋
+---
+Desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontrará uma coleção dos meus projetos e contribuições no GitHub.
 
-I'm a passionate and dedicated programmer, which allows me to transform complex challenges into simple, efficient and scalable solutions. 
-Throughout my studies and experience, I have worked with various technologies and frameworks, always seeking to achieve high-impact results for companies and clients. 
-I follow good coding, performance and security practices.
+---
 
-My focus is on creating solutions that not only meet the client's needs, but also add value and are innovative. 
-I am motivated by results and the continuous pursuit of excellence. 
-I believe that clear communication and effective collaboration are essential to the success of any project, both as a team and individually.
-
+🚀 Sobre Mim
+---
+💼 Atualmente trabalhando como [Desenvovedor Full-Stack] na [RobéBus!ness].
+🎓 Cursando  [Engenharia Informática].
+🌱 Sempre aprendendo algo novo, atualmente focado em [Desenvolvimento full-Stack].
 
  <a href="https://instagram.com/carolinademy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:demycar24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
