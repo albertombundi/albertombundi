@@ -10,7 +10,6 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
 
 - 💻 Experiência em desenvolvimento full-stack, com foco em tecnologias web e mobile.
 - 🔍 Sempre em busca de novos desafios e aprendizados para expandir minhas habilidades.
-- 🌱 Atualmente aprendendo mais sobre inteligência artificial e machine learning.
 - 🎯 Objetivo: desenvolver software que faça a diferença no mundo.
 
 
