@@ -1,8 +1,8 @@
 # 👨🏽‍💻 albertosoneha 
 
 **`Full-Stack Developer`**
-Bem-vindo ao meu perfil no GitHub! 
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes,
+Bem-vindo ao meu perfil no GitHub! <br>
+Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes,<br>
 explorando novas tecnologias para encontrar soluções criativas para problemas simples e complexos.
 
 ## Sobre mim
