@@ -19,8 +19,7 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
 
 
 ### 🤖 Linguagens & Tecnologias
-##
-
+#
 <img 
     align="left" 
     alt="HTML"
