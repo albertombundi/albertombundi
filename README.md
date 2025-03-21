@@ -8,9 +8,9 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
 
 ## Sobre mim
 
-- 💻 Experiência em desenvolvimento full-stack, com foco em tecnologias web e mobile.
-- 🔍 Sempre em busca de novos desafios e aprendizados para expandir minhas habilidades.
-- 🎯 Objetivo: desenvolver software que faça a diferença no mundo.
+💻 Experiência em desenvolvimento full-stack, com foco em tecnologias web e mobile.
+🔍 Sempre em busca de novos desafios e aprendizados para expandir minhas habilidades.
+🎯 Objetivo: desenvolver software que faça a diferença no mundo.
 
 ##
   <a href="https://www.linkedin.com/in/albertombundi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
