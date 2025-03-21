@@ -2,8 +2,7 @@
 
 **`Full-Stack Developer`**
 
-Sou um desenvolvedor dedicado em aprender e inovar. <br>
-Gosto de explorar novas tecnologias e encontrar soluções criativas para problemas simples e complexos.
+explorando novas tecnologias para encontrar soluções criativas para problemas simples e complexos.
 
 <a href="https://www.linkedin.com/in/albertombundi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:albertombundi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
