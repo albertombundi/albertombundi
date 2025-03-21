@@ -2,8 +2,7 @@
 
 **`Full-Stack Developer`** <br>
 Bem-vindo ao meu perfil no GitHub! <br>
-Eu chamo-me Alberto Soneha Mbundi <br>
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes,
+Eu chamo-me Alberto Soneha Mbundi, Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes,
 explorando novas tecnologias para encontrar soluções criativas para problemas simples e complexos.
 
 ## Sobre mim
