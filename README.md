@@ -2,7 +2,7 @@
 
 **`Full-Stack Developer`** <br>
 
-Eu chamo-me Alberto Soneha Mbundi.
+Eu chamo-me Alberto Soneha Mbundi. <br>
 Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes,
 explorando novas tecnologias para encontrar soluções criativas para problemas simples e complexos.
 
