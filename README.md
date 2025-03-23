@@ -61,6 +61,14 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
 />
 <img 
     align="left" 
+    alt="Vercel"
+    title="Vercel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
@@ -122,6 +130,14 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vscode"
+    title="Vscode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <br/>
 <br/>
