@@ -80,7 +80,7 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
     title="Reactnative" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" 
+    src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 />
 <img 
     align="left" 
