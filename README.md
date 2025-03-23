@@ -156,7 +156,7 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertosoneha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 
 </div>
-<div align="center">
+<div align="left">
   <img src="https://c.tenor.com/6zI6Pnb7cLMAAAAC/matrix.gif" width="600">
 </div>
 
