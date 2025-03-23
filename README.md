@@ -18,7 +18,14 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
  <a href="https://instagram.com/_man.robe_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### 🤖 Linguagens & Tecnologias
-
+<img 
+    align="left" 
+    alt="Vscode"
+    title="Vscode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -130,14 +137,6 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Vscode"
-    title="Vscode" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <br/>
 <br/>
