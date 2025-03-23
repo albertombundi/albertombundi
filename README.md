@@ -79,7 +79,7 @@ Atualmente, estou em busca de uma oportunidade para atuar como desenvolvedor ful
     align="left" 
     alt="ReactNative"
     title="ReactNative" 
-    width="80px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 />
@@ -147,6 +147,7 @@ Atualmente, estou em busca de uma oportunidade para atuar como desenvolvedor ful
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+<br/>
 <br/>
 <br/>
 
