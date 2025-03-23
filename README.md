@@ -2,10 +2,18 @@
 
 **`Full-Stack Developer`** <br>
 
-Eu chamo-me Alberto Soneha Mbundi. <br>
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes,
-explorando novas tecnologias para encontrar soluções criativas para problemas simples e complexos.
-#
+Olá! Eu sou a Alberto, um desenvolvedor de 24 anos, de Luanda, Angola,. Minha jornada na programação começou há cerca de 2 ano e meio, e desde então, tenho me apaixonado cada vez mais por esse universo.
+
+### Experiência
+Tenho experiência prática em testes e configuração de softwares de arquitetura, colaborando diretamente com um desenvolvedor.
+
+### Formação
+- Qualificação em Desenvolvimento Full Stack.
+- Licenciando-se em Engenharia Informática.
+
+### Objetivo
+Atualmente, estou em busca de uma oportunidade para atuar como desenvolvedor full stack júnior.
+
   <a href="https://www.linkedin.com/in/albertombundi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:albertombundi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/_man.robe_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
