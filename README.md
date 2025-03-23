@@ -5,13 +5,6 @@
 Eu chamo-me Alberto Soneha Mbundi. <br>
 Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes,
 explorando novas tecnologias para encontrar soluções criativas para problemas simples e complexos.
-
-## Sobre mim
-
-- 💻 Experiência em desenvolvimento full-stack, com foco em tecnologias web e mobile.
-- 🔍 Sempre em busca de novos desafios e aprendizados para expandir minhas habilidades.
-- 🎯 Objetivo: desenvolver software que faça a diferença no mundo.
-
 #
   <a href="https://www.linkedin.com/in/albertombundi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:albertombundi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
