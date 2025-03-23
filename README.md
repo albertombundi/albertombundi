@@ -128,6 +128,6 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=albertosoneha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertosoneha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img alt="cat coding" width="150" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheen-code-min.gif" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=albertosoneha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img alt="Boy coding" width="150" src="https://raw.githubusercontent.com/imaloner/imaloner/master/assets/gifs/pusheen-code-min.gif" >
 </div>
