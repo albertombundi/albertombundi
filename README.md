@@ -78,7 +78,7 @@ explorando novas tecnologias para encontrar soluções criativas para problemas 
     align="left" 
     alt="Reactnative"
     title="Reactnative" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 />
