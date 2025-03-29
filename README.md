@@ -2,23 +2,23 @@
 
 **`Full-Stack Developer`** <br>
 
-Olá! Eu sou a Alberto, um desenvolvedor de 24 anos, de Luanda, Angola,. Minha jornada na programação começou há cerca de 2 ano e meio, e desde então, tenho me apaixonado cada vez mais por esse universo.
+"Hi! I'm Alberto, a 24-year-old developer from Luanda, Angola. My journey into programming began around three and a half years ago, and ever since, I've been fascinated by the endless possibilities of this field. I’m passionate about turning ideas into reality through code and constantly exploring new technologies to grow as a developer."
 
-### Experiência
-Tenho experiência prática em testes e configuração de softwares de arquitetura, colaborando diretamente com um desenvolvedor.
+### Experience
+I have hands-on experience in testing and configuring architectural software, working directly with a senior developer.
 
-### Formação
-- Qualificação em Desenvolvimento Full Stack.
-- Licenciando-se em Engenharia Informática.
+### Education
+- Full Stack Development Qualification from [RobéBus!ness].
+- Pursuing a Bachelor's Degree in Computer Engineering, expected to graduate in [2028].
 
-### Objetivo
-Atualmente, estou em busca de uma oportunidade para atuar como desenvolvedor full stack júnior.
+### Objective
+I am currently seeking an opportunity as a junior full-stack developer to apply and expand my skills in [specific technologies], contributing to innovative and challenging projects.
 
   <a href="https://www.linkedin.com/in/albertombundi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:albertombundi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/_man.robe_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-### 🤖 Linguagens & Tecnologias
+### 🤖 Languages & Tecnologies
 <img 
     align="left" 
     alt="Vscode"
