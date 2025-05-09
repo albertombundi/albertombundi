@@ -7,10 +7,6 @@
 ### Experience
 I have hands-on experience in testing and configuring architectural software, working directly with a senior developer.
 
-### Education
-- Full Stack Development Qualification from [RobéBus!ness].
-- Pursuing a Bachelor's Degree in Computer Engineering, expected to graduate in [2028].
-
 ### Objective
 I am currently seeking an opportunity as a junior full-stack developer to apply and expand my skills in [specific technologies], contributing to innovative and challenging projects.
 
