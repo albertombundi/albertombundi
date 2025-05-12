@@ -20,7 +20,7 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
     alt="Vscode"
     title="Vscode" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; padding-bottom: 10px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
