@@ -143,6 +143,14 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Windows 10" 
+    title="Windows 10"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/303144/windows-10-logo.svg" 
+/>
 <br/>
 <br/>
 <br/>
