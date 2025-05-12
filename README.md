@@ -81,14 +81,6 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
