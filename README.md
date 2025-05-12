@@ -73,11 +73,11 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
 />
 <img 
     align="left" 
-    alt="Vercel"
-    title="Vercel" 
+    alt="Next.js" 
+    title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
     align="left" 
