@@ -145,11 +145,11 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
 />
 <img 
     align="left" 
-    alt="Windows 10" 
-    title="Windows 10"
+    alt="Windows" 
+    title="Windows"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/303144/windows-10-logo.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
 />
 <br/>
 <br/>
