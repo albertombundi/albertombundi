@@ -49,6 +49,14 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
 />
 <img 
     align="left" 
+    alt="MongoDB" 
+    title="Mongoose / MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
