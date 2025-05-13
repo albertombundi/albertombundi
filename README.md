@@ -17,6 +17,14 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
 ### 🤖 Languages & Tecnologies
 <img 
     align="left" 
+    alt="Windows" 
+    title="Windows"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Vscode"
     title="Vscode" 
     width="30px" 
