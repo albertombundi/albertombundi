@@ -89,11 +89,11 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
 />
 <img 
     align="left" 
-    alt="Vue"
-    title="Vue" 
+    alt="Vue.js"
+    title="Vue.js" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/vue-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/vue.js-original.svg" 
 />
 <img 
     align="left" 
