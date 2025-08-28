@@ -94,7 +94,6 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
-/>
 <img 
     align="left" 
     alt="Angular.js"
@@ -167,8 +166,6 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
-<br/>
-<br/>
 <br/>
 
 <div align="left">
