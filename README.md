@@ -167,6 +167,9 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
 />
 
 <br/>
+<br/>
+<br/>
+<br/>
 
 <div align="left">
   
