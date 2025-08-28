@@ -94,6 +94,14 @@ I am currently seeking an opportunity as a junior full-stack developer to apply 
     width="30px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
+/>
+<img 
+    align="left" 
+    alt="Angular.js"
+    title="Angular.js" 
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+/>
 <img 
     align="left" 
     alt="Next.js" 
