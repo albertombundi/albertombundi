@@ -36,9 +36,9 @@
 
 ## 🌐 Connect with me
 
-- [LinkedIn](https://linkedin.com/in/SEU-LINK)  
+- [LinkedIn](https://linkedin.com/in/albertombundi)  
 - [YouTube](https://youtube.com/@SEU-CANAL)  
-- [Portfolio Website (soon...)](https://github.com/albertombundi)
+- [Portfolio Website ](https://portfolioalbertombundi.vercel.app/)
 
 ---
 ✨ *Always learning. Always building.*  
