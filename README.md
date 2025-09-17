@@ -18,7 +18,7 @@
 
 ## 📌 Featured Projects
 
-🔹 [Robé Shop](https://github.com/albertombundi) – E-commerce website built with HTML, CSS & JS  
+🔹 [Robé Shop](https://robeshop.vercel.app/) – E-commerce website built with HTML, CSS & JS  
 🔹 [Robé Fashion](https://github.com/albertombundi) – Online fashion store  
 🔹 [Robé Food](https://github.com/albertombundi) – Food delivery web app  
 🔹 [Sight](https://github.com/albertombundi) – Experimental front-end project  
