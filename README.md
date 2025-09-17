@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Man Robé
+# 👋 Hi, I'm Alberto Mbundi
 
 💻 **Full-Stack Web Developer (Junior)** | Passionate about building complete digital solutions.  
 🎓 Studying **Computer Engineering** and constantly experimenting with new technologies.  
@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 
 - **Languages:** JavaScript (ES6+), TypeScript, PHP  
-- **Frontend:** React, Next.js, Vue.js, HTML5, CSS3, TailwindCSS  
+- **Frontend:** React, Next.js, Vue.js, Angular.js, HTML5, CSS3, TailwindCSS  
 - **Backend:** Node.js, Express.js, PHP (Laravel basics), XAMPP  
 - **Database:** MySQL, MongoDB (basic)  
 - **Tools:** Git, GitHub, Linux (Pop!_OS), VS Code  
