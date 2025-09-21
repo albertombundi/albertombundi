@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alberto Mbundi
 
-💻 **Full-Stack Web & Mobile Developer (Junior)** | Passionate about building complete digital solutions.  
+💻 **Full-Stack Web Developer ** | Passionate about building complete digital solutions.  
 🎓 Studying **Computer Engineering** and constantly experimenting with new technologies.  
 🌍 Open to collaborations and opportunities in **Web Development & Full-Stack Projects**.  
 
