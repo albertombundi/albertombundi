@@ -10,8 +10,8 @@
 
 - **Languages:** JavaScript (ES6+), TypeScript, PHP  
 - **Frontend:** React, Next.js, Vue.js, Angular.js, HTML5, CSS3, TailwindCSS  
-- **Backend:** Node.js, Express.js, PHP (Laravel basics), XAMPP  
-- **Database:** MySQL, MongoDB (basic)  
+- **Backend:** Node.js, Express.js, PHP, XAMPP  
+- **Database:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, Linux (Pop!_OS), VS Code  
 
 ---
