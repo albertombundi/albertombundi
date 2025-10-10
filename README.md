@@ -22,13 +22,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertombundi&layout=compact&theme=radical)
 
 ---
-
-## 🌐 Connect with me
-
-- [LinkedIn](https://linkedin.com/in/albertombundi)  
-- [YouTube](https://youtube.com/@SEU-CANAL)  
-- [Portfolio Website ](https://portfolioalbertombundi.vercel.app/)
-
----
 ✨ *Always learning. Always building.*  
 
