@@ -16,17 +16,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-🔹 [Robé Shop](https://robeshop.vercel.app/) – E-commerce website built with HTML, CSS & JS  
-🔹 [Robé Fashion](https://robefashion.vercel.app/) – Online fashion store  
-🔹 [Robé Food](https://robefood.vercel.app/) – Food delivery web app  
-🔹 [sales-ctrl-panel](https://paineldevendas.vercel.app/) – Experimental front-end project  
-
-> More projects available in my repositories 👀
-
----
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=albertombundi&show_icons=true&theme=radical)  
