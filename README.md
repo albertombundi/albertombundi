@@ -46,7 +46,7 @@ Meu foco é desenvolver **aplicações web e móveis modernas**, com código lim
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albertombundi&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=albertombundi&show_icons=true&theme=dracula" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertombundi&layout=compact&theme=dracula" alt="Top Languages" height="160"/>
 </p>
 
