@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Alberto Mbundi
 
-### 💼 Desenvolvedor Full-Stack | Empreendedor | Entusiasta de Tecnologia  
+### 💼 Desenvolvedor Full-Stack Júnior | Empreendedor | Entusiasta de Tecnologia  
 
 Sou apaixonado por criar **soluções digitais escaláveis e de alta qualidade** que unem design, funcionalidade e estratégia de negócio.  
 Meu foco é desenvolver **aplicações web e móveis modernas**, com código limpo e visão orientada a resultados.
