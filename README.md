@@ -1,25 +1,25 @@
-# 👋 Hello, I'm Alberto Mbundi  
+# 👋 Olá, eu sou o Alberto Mbundi
 
-### 💼 Full-Stack Developer | Entrepreneur | Tech Enthusiast  
+### 💼 Desenvolvedor Full-Stack | Empreendedor | Entusiasta de Tecnologia  
 
-I’m passionate about building **scalable, high-quality digital solutions** that connect design, functionality, and business strategy.  
-My focus is on developing **modern web and mobile applications** using clean code and a results-oriented mindset.
-
----
-
-## 🧠 About Me  
-- 🌍 Based in Angola  
-- 🎯 Currently studying **Computer Engineering**  
-- 🧩 Self-taught developer with 3+ years of experience building real-world projects  
-- 🚀 Founder of **RobéBus!ness**, where I create professional websites and applications for clients  
-- 📈 Always learning, improving, and exploring new technologies  
+Sou apaixonado por criar **soluções digitais escaláveis e de alta qualidade** que unem design, funcionalidade e estratégia de negócio.  
+Meu foco é desenvolver **aplicações web e móveis modernas**, com código limpo e visão orientada a resultados.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧠 Sobre Mim  
+- 🌍 Natural de Angola  
+- 🎓 Estudante de **Engenharia Informática**  
+- 🧩 Desenvolvedor autodidata com mais de 3 anos de experiência prática  
+- 🚀 Fundador da **RobéBus!ness**, onde crio websites e aplicações profissionais para empresas e empreendedores  
+- 📈 Sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias  
+
+---
+
+## 🛠️ Tecnologias  
 
 **Front-end:**  
- `Vue` • `Angular` • `JavaScript` • `TypeScript` • `React` • `Next.js`  
+`Vue` • `Angular` • `HTML` • `TypeScript` • `React` • `Next.js`  
 
 **Back-end:**  
 `Node.js` • `PHP` • `Express`  
@@ -27,23 +27,23 @@ My focus is on developing **modern web and mobile applications** using clean cod
 **Mobile:**  
 `React Native`  
 
-**Tools & Others:**  
-`Git` • `GitHub` • `XAMPP` • `Linux (Pop!_OS)`  
+**Ferramentas & Outros:**  
+`Git` • `GitHub` • `VsCode` • `Linux (Pop!_OS)` • `MangoDB` • `MySQL` • `XAMPP`   
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Projetos em Destaque  
 
-| Project | Description | Techs |
-|----------|--------------|-------|
-| **Robé Shop** | E-commerce platform for general products | HTML, CSS, JS |
-| **Robé Fashion** | Clothing e-commerce focused on style and experience | HTML, CSS, JS |
-| **Robé Food** | Food delivery e-commerce | HTML, CSS, JS |
-| **RobéBus!ness** | Platform for creating professional websites and apps | React, Node.js, PHP |
+| Projeto | Descrição | Tecnologias |
+|----------|------------|-------------|
+| **Robé Shop** | Loja virtual de produtos variados | HTML, CSS, JS |
+| **Robé Fashion** | E-commerce de moda com foco em estilo e experiência | HTML, CSS, JS |
+| **Robé Food** | Plataforma de entrega de alimentos | HTML, CSS, JS |
+| **RobéBus!ness** | Plataforma para criação de sites e apps profissionais | React, Node.js, PHP |
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Estatísticas do GitHub  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=albertombundi&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
@@ -52,14 +52,14 @@ My focus is on developing **modern web and mobile applications** using clean cod
 
 ---
 
-## 📫 Contact  
+## 📫 Contato  
 
-- 🌐 [Portfolio](https://portfolioalbertombundi.vercel.app/)  
+- 🌐 [Portfólio](https://portfolioalbertombundi.vercel.app/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/albertombundi/)  
-- 🎥 [YouTube Channel](#)  
+- 🎥 [Canal no YouTube](#)  
 - ✉️ **albertombundi@gmail.com**
 
 ---
 
-> _“Code with purpose. Learn endlessly. Build the future.”_  
-> — **Man Robé**
+> _“Code com propósito. Aprenda sem parar. Construa o futuro.”_  
+> — **Alberto Mbundi**
