@@ -3,7 +3,7 @@
 ### 💼 Desenvolvedor Full-Stack Júnior | Empreendedor | Entusiasta de Tecnologia  
 
 Sou apaixonado por criar **soluções digitais escaláveis e de alta qualidade** que unem design, funcionalidade e estratégia de negócio.  
-Meu foco é desenvolver **aplicações web e móveis modernas**, com código limpo e visão orientada a resultados.
+Meu foco é desenvolver **Sistemas web e móveis modernas**, com código limpo e visão orientada a resultados.
 
 ---
 
@@ -34,13 +34,13 @@ Meu foco é desenvolver **aplicações web e móveis modernas**, com código lim
 
 ## 🚀 Projetos em Destaque  
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|-------------|
-| **Robé Shop** | Loja virtual de produtos variados | HTML, CSS, JS |
-| **Robé Fashion** | E-commerce de moda com foco em estilo e experiência | HTML, CSS, JS |
-| **Robé Food** | Plataforma de entrega de alimentos | HTML, CSS, JS |
-| **RobéBus!ness** | Plataforma para criação de sites e apps profissionais | React, Node.js, PHP |
-
+| **Painel Ctrl Vendas** | Sistema administrativo completo para gestão de vendas, produtos e usuários. | Nextjs, Node.js |
+| **Task Tracker** | Aplicativo para gerenciamento de tarefas e produtividade, dentro do monorepo. | Angular, Node.js |
+| **VueJobs** | Plataforma de listagem e busca de empregos desenvolvida com Vue.js. |Node.js, Vue.js, JavaScript |
+| **Robé Shop** | Loja virtual de produtos variados. | HTML, CSS, JS |
+| **ReactJobs** | Sistema de listagem e candidatura de vagas, com interface responsiva e foco em performance. | Nodejs, React, TypeScript |
+| **Robé Fashion** | E-commerce de moda com foco em estilo e experiência. | HTML, CSS, JS |
+| **Robé Food** | Plataforma de entrega de alimentos. | HTML, CSS, JS |
 ---
 
 ## 📊 Estatísticas do GitHub  
