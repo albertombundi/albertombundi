@@ -46,8 +46,8 @@ My focus is on developing **modern web and mobile applications** using clean cod
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=albertombundi&show_icons=true&theme=transparent" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertombundi&layout=compact&theme=transparent" alt="Top Languages" height="160"/>
 </p>
 
 ---
