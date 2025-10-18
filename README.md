@@ -2,8 +2,10 @@
 
 ### 💼 Desenvolvedor Full-Stack Júnior | Empreendedor | Entusiasta de Tecnologia  
 
-Sou apaixonado por criar **soluções digitais escaláveis e de alta qualidade** que unem design, funcionalidade e estratégia de negócio.  
-Meu foco é desenvolver **Sistemas web e móveis modernas**, com código limpo e visão orientada a resultados.
+Sou um desenvolvedor full-stack dedicado à criação de **soluções digitais modernas, seguras e escaláveis**.  
+Minha abordagem combina **visão técnica e mentalidade empreendedora**, com foco em desenvolver sistemas sólidos, interfaces eficientes e experiências de alto impacto.  
+
+Atualmente, atuo no desenvolvimento de **aplicações web e móveis** que integram desempenho, estética e propósito — sempre com o objetivo de transformar ideias em produtos digitais reais e funcionais.
 
 ---
 
