@@ -34,13 +34,16 @@ Meu foco é desenvolver **Sistemas web e móveis modernas**, com código limpo e
 
 ## 🚀 Projetos em Destaque  
 
-| **Painel Ctrl Vendas** | Sistema administrativo completo para gestão de vendas, produtos e usuários. | Nextjs, Node.js |
-| **Task Tracker** | Aplicativo para gerenciamento de tarefas e produtividade, dentro do monorepo. | Angular, Node.js |
-| **VueJobs** | Plataforma de listagem e busca de empregos desenvolvida com Vue.js. |Node.js, Vue.js, JavaScript |
-| **Robé Shop** | Loja virtual de produtos variados. | HTML, CSS, JS |
-| **ReactJobs** | Sistema de listagem e candidatura de vagas, com interface responsiva e foco em performance. | Nodejs, React, TypeScript |
-| **Robé Fashion** | E-commerce de moda com foco em estilo e experiência. | HTML, CSS, JS |
-| **Robé Food** | Plataforma de entrega de alimentos. | HTML, CSS, JS |
+| Projeto | Descrição | Tecnologias |
+|----------|------------|-------------|
+| **Painel Ctrl Vendas** | Sistema administrativo completo para controle de vendas, produtos e usuários, com autenticação e dashboard de estatísticas. | React, Node.js, PHP |
+| **Task Tracker** | Aplicação para gestão de tarefas e produtividade, desenvolvida em arquitetura monorepo e focada em usabilidade. | Angular, Node.js |
+| **VueJobs** | Plataforma interativa para listagem e busca de oportunidades de emprego, com filtros dinâmicos e interface intuitiva. | Vue.js, JavaScript |
+| **ReactJobs** | Sistema moderno de publicação e candidatura a vagas, com interface responsiva e foco em performance. | React, TypeScript |
+| **Robé Shop** | E-commerce de produtos diversos, com design simples e estrutura de loja virtual funcional. | HTML, CSS, JavaScript |
+| **Robé Fashion** | Plataforma de moda online voltada à experiência do usuário e apresentação de produtos visuais. | HTML, CSS, JavaScript |
+| **Robé Food** | Sistema de pedidos e entregas de alimentos com foco em agilidade e navegação intuitiva. | HTML, CSS, JavaScript |
+| **RobéBus!ness** | Plataforma profissional dedicada ao desenvolvimento de websites e aplicações sob medida. | React, Node.js, PHP |
 ---
 
 ## 📊 Estatísticas do GitHub  
